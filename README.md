@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba para el modulo 2 del prepcourse de Henry
+Este es un proyecto de prubeba de como crear un repositorio y clnarlo desde gitbash a mi escritorio local 
